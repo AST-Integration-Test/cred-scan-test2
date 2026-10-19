@@ -1,0 +1,22 @@
+
+
+
+
+SECRET_KEY=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
+apikey: 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
+
+Npm = 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
+openweather = 1d7b12192727e3f4a94d1a7c7e3f750a
+ipgeolocation = 27c72edcfcf645bbad98c5140fd125f6
+virustotal = fe5e8f5e9fa831a65dbf0d7da0b499c315b4a1ccc3872873e97e008b7b2b2db4
+weatherbit = c1bdfe8196f449aebeb697bcb8874a76
+weatherstack = 502a1a25d02544cdb17380e683003317
+zipcodeapi = GV4pKkrc0n4sg1ZZT48SjG3qGKcW29wfKoBGqzuKvCwkeCByOvMR4aqtfTLgYRE6
+pixabay = 55378583-4e6280e679c4352354266305b
+unsplash = _eZjUf7heo9zileLkZyks0NcVqnGx6GUjqFM7AHBBPo & AXKj7f5m215f9xKkx7ubFpJykTuQytL2trh8iSYOr8w
+ipstack = 371db5dc53e317fbb166d59dd6bdd021
+heroku = HRKU-AAUUGJGL7VA7N65hhmLoe5TGLf1eDgTQ2BPV0kNitVBA_____w6uCTsEIQTv
+github = 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
+aws = AKIAYZM57LTP6E63AM4A & N5Xv+qYt4fDKQX3ak/ZZiisWnEE4K1xCrgMWzKmh
+gitlab = glpat-9QvHLj7kF2IxL7tEGFh4eWM6MQpvOjEKdTpseDA2Zg8.01.170ect8tk
+Github = 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
